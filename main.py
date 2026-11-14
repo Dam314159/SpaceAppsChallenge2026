@@ -1,5 +1,8 @@
 import streamlit as st
 
+st.title("Streamlit wohoo!!! wohoo!!! wohoo!!!")
+
+st.write("health very important 👍")
 st.set_page_config(page_title="Nasa Space Apps 2026 Health Montioring by Group 17", page_icon="🏥", layout="wide")
 
 # Change this if you want to add or change the pages
