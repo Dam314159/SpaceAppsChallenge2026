@@ -59,10 +59,10 @@ pip install plotly streamlit
 
 ### 6. Run the App
 
-Start the Streamlit server using:
+Start the Streamlit server using the Python module command. This ensures it runs properly regardless of your system's PATH setup.
 
 ```bash
-streamlit run main.py
+python -m streamlit run main.py
 ```
 
 ### 7. View the App
