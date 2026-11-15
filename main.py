@@ -12,6 +12,7 @@ pg = st.navigation(
     [
         "pages/home.py",
         "pages/radiation.py",
+        "pages/sleep.py"
     ]
 )
 
