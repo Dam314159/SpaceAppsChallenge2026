@@ -9,13 +9,6 @@ reflex = st.Page("pages/reflex_monitoring.py", title="Reflex Monitoring", icon="
 sleep = st.Page("pages/sleep.py", title="Sleep")
 
 # Change this if you want to add or change the pages
-pg = st.navigation(
-    [
-        "pages/home.py",
-        "pages/radiation.py",
-        "pages/sleep.py",
-        "pages/reflex_monitoring.py"
-    ]
-)
+pg = st.navigation([home, radiation, reflex, sleep])
 
 pg.run()
