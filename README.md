@@ -6,9 +6,7 @@ Remeber to update the `requirements.txt` by running `pip freeze > requirements.t
 Access the deployed Health Monitoring application here:
 
 https://nasa-space-apps-2026-group-17-health-monitoring.streamlit.app/
-
 --
-
 # How to Run the Streamlit App Locally
 
 Follow these simple steps to run the Health Monitoring app on your computer using VS Code.
